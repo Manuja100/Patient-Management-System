@@ -1,0 +1,74 @@
+.adminHomeBtns {
+  padding-bottom: 25px;
+  max-width: auto;
+  margin-left: 80%;
+}
+
+.addUserBtn {
+  display: inline-block;
+}
+
+.logoutBtn {
+  display: inline-block;
+  padding-left: 10px;
+}
+
+.analyticsBtn {
+  display: inline-block;
+  padding-left: 10px;
+}
+
+.reportBtn {
+  display: inline-block;
+  padding-left: 10px;
+}
+
+.roleCountBlocks {
+  display: block;
+  margin-top: 5%;
+  margin-left: 20%;
+}
+
+.roleCountCons {
+  display: inline-block;
+}
+
+.roleCountDoctor {
+  display: inline-block;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.roleCountNurse {
+  display: inline-block;
+}
+
+.roleCountHeadNurse {
+  display: inline-block;
+}
+
+.roleCountAdmin {
+  display: inline-block;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.roleCountTotal {
+  display: inline-block;
+}
+
+.pieChart {
+  display: inline-block;
+  margin-left: 7%;
+}
+
+.changePasswordBtn {
+  margin-left: 5%;
+  margin-top: 5%;
+}
+
+.logOutBtnInModel {
+  display: inline-block;
+  margin-left: 5%;
+  margin-top: 5%;
+}
